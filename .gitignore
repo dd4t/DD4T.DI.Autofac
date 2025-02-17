@@ -6,6 +6,7 @@
 *.user
 *.sln.docstates
 
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -181,4 +182,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
-source/.vs/
+
+# Visual Studio Temp Files
+.vs/
