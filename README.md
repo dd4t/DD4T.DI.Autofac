@@ -1,17 +1,16 @@
-
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/github/dd4t/DD4T.DI.Autofac?branch=master&svg=true&passingText=master)](https://ci.appveyor.com/project/DD4T/dd4t-di-autofac)
-
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/github/dd4t/DD4T.DI.Autofac?branch=develop&svg=true&passingText=develop)](https://ci.appveyor.com/project/DD4T/dd4t-di-autofac)
-
-# dd4t-di-autofac
+# DD4T.DI.Autofac
 
 Autofac dependency injection container
+
+## Release 2.6
+
+- Upgraded reference to DD4T.Core to 2.6.1
+- Upgraded reference to Autofac to 8.2.0
 
 ## Release 2.5
 
 - Upgraded reference to DD4T.Core
 - Suppress warnings about obsolete methods in IComponentProvider
-
 
 ## How to 
 
